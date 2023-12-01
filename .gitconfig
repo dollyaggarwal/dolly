@@ -1,0 +1,6 @@
+[user]
+	name = Dolly Aggarwal
+	email = dollyaggarwal1712@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = true
